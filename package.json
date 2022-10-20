@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "ts-node atividades.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.8.0"
+  }
+}
